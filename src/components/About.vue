@@ -8,7 +8,7 @@
             <p class="about__name">Jacob Paulaner</p>
             <p class="about__text">Jacob has a background in audio engineering, and has<br>been podcasting since the early days.<br><br>He’s here to help you level up your game by sharing<br>everything he’s learned along the way.</p>
         </div>
-        <img src="about-photo.png" class="about__photo">
+        <img src="/about-photo.png" class="about__photo">
     </section>
 </template>
 
