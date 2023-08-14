@@ -27,7 +27,6 @@
     padding: 60px
     justify-content: space-between
     margin-top: 160px
-    margin-bottom: 160px
     position: relative
     &__icon
         position: absolute
