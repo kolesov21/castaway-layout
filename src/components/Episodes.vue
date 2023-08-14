@@ -74,7 +74,7 @@
     &__tag
         font-size: 18px
         line-height: 27px
-        padding: 0px 16px
+        padding: 3px 16px
         border-radius: 6px
         background-color: #191919
         margin-bottom: 48px
