@@ -9,7 +9,7 @@
         </div>
         <div class="episodes-list">
             <article class="episode">
-                <img src="/episode-3.png" class="episode__photo">
+                <img src="@/assets/episode-3.png" class="episode__photo">
                 <div>
                     <button class="episode__tag">Gear</button>
                     <p class="episode__number">Episode 3</p>
@@ -19,7 +19,7 @@
                 </div>
             </article>
             <article class="episode">
-                <img src="/episode-2.png" class="episode__photo">
+                <img src="@/assets/episode-2.png" class="episode__photo">
                 <div>
                     <button class="episode__tag">Tips & Tricks</button>
                     <p class="episode__number">Episode 2</p>
@@ -29,7 +29,7 @@
                 </div>
             </article>
             <article class="episode">
-                <img src="/episode-1.png" class="episode__photo">
+                <img src="@/assets/episode-1.png" class="episode__photo">
                 <div>
                     <button class="episode__tag">Gear</button>
                     <p class="episode__number">Episode 1</p>

@@ -5,66 +5,66 @@
     <section class="reviews">
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">I can’t recommend this podcast enough</p>
             <p class="review__author">Betty Lacey</p>
         </div>
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">Jacob is the best in the business</p>
             <p class="review__author">Adam Driver</p>
         </div>
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">A wealth of audio knowledge</p>
             <p class="review__author">Marcus Brown</p>
         </div>
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">Every episode is a gem!</p>
             <p class="review__author">Jessica Knowl</p>
         </div>
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">Whoa whoa, let me take some notes!</p>
             <p class="review__author">Scott Adams</p>
         </div>
         <div class="review">
             <div class="review__rating">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
-                <img src="/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
+                <img src="@/assets/review-icon.svg">
             </div>
             <p class="review__text">I’ve upped my game considerably since I started listening</p>
             <p class="review__author">Steven Blast</p>

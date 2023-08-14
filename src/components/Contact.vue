@@ -14,7 +14,7 @@
             </div>
             <button class="button">Submit</button>
         </div>
-        <img src="/contact-icon.svg" alt="" class="contact__icon">
+        <img src="@/assets/contact-icon.svg" alt="" class="contact__icon">
     </section>
 </template>
 

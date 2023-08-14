@@ -4,22 +4,22 @@
 <template>
     <main class="hero">
         <div class="photo">
-            <img src="/main-photo.png" alt="Man in headset" class="photo__img">
-            <img src="/main-photo-icon.svg" class="photo__icon">
+            <img src="@/assets/main-photo.png" alt="Man in headset" class="photo__img">
+            <img src="@/assets/main-photo-icon.svg" class="photo__icon">
         </div>
         <div class="tagline">
             <div class="tagline__text">
                 <p>Take your<br>podcast to the<br><span class="tagline__text_thinner">next</span> <span class="tagline__text_bold">level</span></p>
-                <img src="/tagline-text-icon.svg" class="tagline__icon">
+                <img src="@/assets/tagline-text-icon.svg" class="tagline__icon">
             </div>
             <div class="socials">
                 <p>Listen on</p>
                 <ul class="socials__icons">
-                    <li><img src="/socials-green.svg"></li>
-                    <li><img src="/socials-red.svg"></li>
-                    <li><img src="/socials-orange.svg"></li>
-                    <li><img src="/socials-purple.svg"></li>
-                    <li><img src="/socials-white.svg"></li>
+                    <li><img src="@/assets/socials-green.svg"></li>
+                    <li><img src="@/assets/socials-red.svg"></li>
+                    <li><img src="@/assets/socials-orange.svg"></li>
+                    <li><img src="@/assets/socials-purple.svg"></li>
+                    <li><img src="@/assets/socials-white.svg"></li>
                 </ul>
             </div>
         </div>

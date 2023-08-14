@@ -4,7 +4,7 @@
 <template>
     <header class="header">
         <div>
-            <img src="/castaway-logo.svg" alt="Castaway logo">
+            <img src="@/assets/castaway-logo.svg" alt="Castaway logo">
         </div>
         <div>
             <ul class="header__navigation">
