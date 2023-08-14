@@ -19,7 +19,7 @@
     padding: 0px 20px
     align-items: center
     justify-content: space-between
-    margin-top: 260px
+    margin-top: 160px
     &__photo
         flex-shrink: 0
     &__label

@@ -3,6 +3,7 @@ import Header from '@/components/Header.vue'
 import Hero from '@/components/Hero.vue'
 import Episodes from '@/components/Episodes.vue'
 import About from '@/components/About.vue'
+import Contact from '@/components/Contact.vue'
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import About from '@/components/About.vue'
     <Hero></Hero>
     <Episodes></Episodes>
     <About></About>
+    <Contact></Contact>
 </template>
 
 <style scoped lang="sass">
